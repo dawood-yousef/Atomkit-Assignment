@@ -36,4 +36,5 @@ $(document).ready(function() {
 
     /* Convert browser select to bootstrap select */
     $('select').selectpicker();
+    AOS.init();
 });
