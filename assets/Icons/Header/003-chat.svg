@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.246" height="29.248" viewBox="0 0 29.246 29.248">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29.246" height="29.248" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_003-chat" data-name="003-chat" transform="translate(0)" clip-path="url(#clip-path)">
+    <g id="Group_157" data-name="Group 157">
+      <path id="Path_704" data-name="Path 704" d="M24.973,4.285a14.621,14.621,0,0,0-21.6,19.664,5.6,5.6,0,0,1-2.344,2.6,1.372,1.372,0,0,0,.4,2.585,7.557,7.557,0,0,0,1.156.087,8.73,8.73,0,0,0,5.145-1.707A14.619,14.619,0,0,0,24.973,4.285Zm-1.181,19.5A12.951,12.951,0,0,1,8.073,25.8a.831.831,0,0,0-1.014.13.275.275,0,0,0-.068.049,7.139,7.139,0,0,1-4.409,1.571H2.576a8.187,8.187,0,0,0,2.51-3.333.854.854,0,0,0,.043-.538.868.868,0,0,0-.2-.47,12.952,12.952,0,1,1,18.866.575Z" transform="translate(-0.019 0)" fill="#c1c1c1"/>
+      <ellipse id="Ellipse_118" data-name="Ellipse 118" cx="1.319" cy="1.319" rx="1.319" ry="1.319" transform="translate(13.297 13.306)" fill="#c1c1c1"/>
+      <ellipse id="Ellipse_119" data-name="Ellipse 119" cx="1.319" cy="1.319" rx="1.319" ry="1.319" transform="translate(18.476 13.306)" fill="#c1c1c1"/>
+      <ellipse id="Ellipse_120" data-name="Ellipse 120" cx="1.319" cy="1.319" rx="1.319" ry="1.319" transform="translate(8.118 13.306)" fill="#c1c1c1"/>
+    </g>
+  </g>
+</svg>
