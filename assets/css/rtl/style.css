@@ -281,11 +281,11 @@ main {
     display: flex;
 }
 .product-advertise {
-    flex-basis: 100px;
+    flex-basis: 120px;
     padding-left: 15px;
 }
 .products {
-    flex-basis: calc(100% - 100px);
+    flex-basis: calc(100% - 120px);
 }
 .products-row {
     margin: 0 -7.5px;
