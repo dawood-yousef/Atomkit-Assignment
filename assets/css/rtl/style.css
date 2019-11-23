@@ -176,9 +176,9 @@ main {
     background-color: tomato;
     border-radius: 50%;
     display: flex;
-    height: 45px;
+    height: 55px;
     margin: 0 auto 5px;
-    width: 45px;
+    width: 55px;
 }
 .category-item:nth-child(1) .category-icon {
     background-color: #7345AC;
@@ -227,7 +227,7 @@ main {
 }
 .category-icon img {
     margin: auto;
-    width: 20px;
+    width: 25px;
 }
 .category-title {
     display: block;
