@@ -184,46 +184,46 @@ main {
     background-color: #7345AC;
 }
 .category-item:nth-child(2) .category-icon {
-    background-color: #08CBA5;
+    background-color: #0088C7;
 }
 .category-item:nth-child(3) .category-icon {
-    background-color: #ffcc00;
+    background-color: #FF3F55;
 }
 .category-item:nth-child(4) .category-icon {
-    background-color: #fd7d91;
+    background-color: #84B54B;
 }
 .category-item:nth-child(5) .category-icon {
-    background-color: #bd9ee4;
+    background-color: #34C6F1;
 }
 .category-item:nth-child(6) .category-icon {
-    background-color: #84b54b;
+    background-color: #6BCEBB;
 }
 .category-item:nth-child(7) .category-icon {
-    background-color: #ff6000;
+    background-color: #FF9E00;
 }
 .category-item:nth-child(8) .category-icon {
-    background-color: #6bcebb;
+    background-color: #BD9EE4;
 }
 .category-item:nth-child(9) .category-icon {
-    background-color: #bd9ee4;
+    background-color: #FD7D91;
 }
 .category-item:nth-child(10) .category-icon {
-    background-color: #0088c7;
-}
-.category-item:nth-child(11) .category-icon {
-    background-color: #ff3f55;
-}
-.category-item:nth-child(12) .category-icon {
-    background-color: #ff9e00;
-}
-.category-item:nth-child(13) .category-icon {
     background-color: #6bab21;
 }
-.category-item:nth-child(14) .category-icon {
+.category-item:nth-child(11) .category-icon {
+    background-color: #FFCC00;
+}
+.category-item:nth-child(12) .category-icon {
+    background-color: #08CBA5;
+}
+.category-item:nth-child(13) .category-icon {
     background-color: #343434;
 }
+.category-item:nth-child(14) .category-icon {
+    background-color: #FF6000;
+}
 .category-item:nth-child(15) .category-icon {
-    background-color: #853500;
+    background-color: #FD7D91;
 }
 .category-icon img {
     margin: auto;
