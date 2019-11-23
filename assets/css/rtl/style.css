@@ -180,8 +180,11 @@ main {
     margin: 0 auto 5px;
     width: 45px;
 }
+.category-item:nth-child(1) .category-icon {
+    background-color: #7345AC;
+}
 .category-item:nth-child(2) .category-icon {
-    background-color: #08cba5;
+    background-color: #08CBA5;
 }
 .category-item:nth-child(3) .category-icon {
     background-color: #ffcc00;
@@ -228,7 +231,7 @@ main {
 }
 .category-title {
     display: block;
-    font-size: 8px;
+    font: 8px "NotoKufiArabicBold";
     max-width: 55px;
 }
 /* Filter area */
